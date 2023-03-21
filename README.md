@@ -14,11 +14,12 @@ How do our client's products and services compare to those of their competitors 
 What are the strengths and weaknesses of our client's competitors across different platforms and genres?
 What areas of focus should our client prioritize to improve their competitive position?
 
-[LINK](https://public.tableau.com/views/CompetitorAnalysis1995-2016/CompetitorAnalysis1995-2016?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[DASHBOARDS LINK](https://public.tableau.com/views/CompetitorAnalysis1995-2016/CompetitorAnalysis1995-2016?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 DASHBOARDS
 ![competitor](https://user-images.githubusercontent.com/126607220/226759315-f2a071b6-864f-4640-b1cd-182b0cd7b338.jpg)
-
+![xbox db](https://user-images.githubusercontent.com/126607220/226759875-8d4de40c-9422-45ff-8a50-ca8e6cace30f.jpg)
+![Nin db](https://user-images.githubusercontent.com/126607220/226759886-206f716d-ce36-4d6b-b3c8-6dbc5fa9422b.jpg)
 
 KEY FINDINGS
 
