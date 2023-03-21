@@ -17,6 +17,8 @@ What areas of focus should our client prioritize to improve their competitive po
 [LINK](https://public.tableau.com/views/CompetitorAnalysis1995-2016/CompetitorAnalysis1995-2016?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 DASHBOARDS
+![competitor](https://user-images.githubusercontent.com/126607220/226759315-f2a071b6-864f-4640-b1cd-182b0cd7b338.jpg)
+
 
 KEY FINDINGS
 
