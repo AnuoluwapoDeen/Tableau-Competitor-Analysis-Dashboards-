@@ -14,6 +14,8 @@ How do our client's products and services compare to those of their competitors 
 What are the strengths and weaknesses of our client's competitors across different platforms and genres?
 What areas of focus should our client prioritize to improve their competitive position?
 
+[LINK](https://public.tableau.com/views/CompetitorAnalysis1995-2016/CompetitorAnalysis1995-2016?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 DASHBOARDS
 
 KEY FINDINGS
