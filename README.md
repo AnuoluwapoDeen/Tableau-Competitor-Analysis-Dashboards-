@@ -1,5 +1,7 @@
 # Tableau-Competitor-Analysis-Dashboards- STORY
 
+<img width="350" alt="most-popular-video-games-of-2022-1642612227" src="https://user-images.githubusercontent.com/126607220/226918257-e6c0ff77-8165-46f8-9072-dbabb79fce08.png">
+
 INTRODUCTION
 
 In today's fast-paced business world, it is essential to stay ahead of the competition. For companies in the video games industry, understanding their competitors' strengths and weaknesses can be the key to success. To this end, I created three dashboards using Tableau, one for each competitor (Playstation, Nintendo, and Xbox), to assist our clients in analyzing and evaluating the video games industry's competitive landscape.
